@@ -16,6 +16,8 @@ void printout_opengl_glsl_info() {
 
 }
 
+/*commento test*/
+
 int main(void)
 {
     GLFWwindow* window;
